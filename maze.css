@@ -1,0 +1,17 @@
+#player {
+
+	position: absolute;
+	background: url(character.jpg) no-repeat;
+	width: 109px;
+	height: 154px;
+	border: 1 px solid red;
+	
+}
+
+#map {
+
+	border: 1px solid black;
+	height: 300px;
+	width: 800px;
+
+}
