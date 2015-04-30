@@ -1,7 +1,7 @@
 #player {
 
 	position: absolute;
-	background: url(character.jpg) no-repeat;
+	background: url(player/stay.png) no-repeat;
 	width: 109px;
 	height: 154px;
 	border: 1 px solid red;
@@ -10,6 +10,7 @@
 
 #map {
 
+	position: relative;
 	border: 1px solid black;
 	height: 300px;
 	width: 800px;
